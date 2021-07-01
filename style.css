@@ -8,3 +8,10 @@ p{
     color:coral;
     font-weight: bolder;
 }
+
+h1{
+    background-color: darkblue;
+    font-size: 40pt;
+    color: red;
+
+}
