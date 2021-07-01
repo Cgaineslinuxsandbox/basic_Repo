@@ -1,0 +1,13 @@
+in termminal made a new dir called basic_Repo
+cd into that folder
+used touch to make 3 files called index.html , style.css and Steps_Taken.txt
+ran git init
+git add index.html style.css Steps_Taken.txt
+git commit -m " first commit"
+git remote add origin with the proper URL in place
+git push origin master
+made some changes to the files
+git add index.html style.css
+git commit -m " second commit...."
+git push origin master
+loged into my github acct ahd checked the repo that i had made eariler
